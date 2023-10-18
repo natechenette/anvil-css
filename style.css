@@ -48,7 +48,7 @@ html, body {
   border-radius: 4px !important;
 }
 
-.ant-select-selector {
+.form-group-select .ant-select {
   border: 1px solid #D0D5DD !important;
   -webkit-border-radius: 4px !important;
   -moz-border-radius: 4px !important;
