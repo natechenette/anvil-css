@@ -4,18 +4,30 @@ html, body {
   font-family: 'Inter', sans-serif !important;
 }
 
-.ant-btn {
-  background-color: #6966FF !important;
-  color: #fff !important;
+#page-title::after {
+  background-color: #6966FF;
+}
+
+.button-bar #review-and-sign-btn {
+  background-color: #6966FF;
+  color: white;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
 
-.ant-btn:hover {
-  background-color: #3733FF !important;
+.button-bar #finish-btn {
+  background-color: #6966FF;
+  color: white;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 
-.blcGWc::after {
-  display: none;
+#download-file-btn {
+  background-color: #6966FF;
+  color: white;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
