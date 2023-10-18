@@ -69,3 +69,20 @@ html, body {
 .ant-input:hover, .ant-input:focus {
   border-color: #D0D5DD;
 }
+
+.form-group input {
+  border: 1px solid #D0D5DD !important;
+  -webkit-border-radius: 4px !important;
+  -moz-border-radius: 4px !important;
+  border-radius: 4px !important;
+}
+
+.form-group input:focus {
+  border: 1px solid #6966FF;
+}
+
+.ant-btn.ant-btn-link,
+.ant-btn.ant-btn-link:hover,
+.ant-btn.ant-btn-link:active {
+  color: #6966FF;
+}
