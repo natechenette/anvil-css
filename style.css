@@ -54,3 +54,18 @@ html, body {
   -moz-border-radius: 4px !important;
   border-radius: 4px !important;
 }
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border: 0px !important;
+}
+
+.ant-input {
+  border: 1px solid #D0D5DD !important;
+  -webkit-border-radius: 4px !important;
+  -moz-border-radius: 4px !important;
+  border-radius: 4px !important;
+}
+
+.ant-input:hover, .ant-input:focus {
+  border-color: #D0D5DD;
+}
